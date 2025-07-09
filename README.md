@@ -4,9 +4,9 @@ Bu proje, Python ile yazılmış basit bir kütüphane takip uygulamasıdır.
 Kullanıcılar kitap ekleyebilir ve mevcut kitapları listeleyebilir.  
 Veriler `kitaplar.json` dosyasında saklanır.
 
-🧑‍💻 **Geliştirici:** Yade Aksoy  
-📌 **Dil:** Python  
-🎯 **Seviye:** Giriş-Orta  
+**Geliştirici:** Yade Aksoy  
+**Dil:** Python  
+**Seviye:** Giriş-Orta  
 
 ---
 
